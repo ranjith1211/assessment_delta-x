@@ -1,0 +1,17 @@
+.homepage {
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+  background-color: teal;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 25px;
+  border-radius: 15px;
+}
+
+.text {
+  text-decoration: none;
+  color: white;
+}

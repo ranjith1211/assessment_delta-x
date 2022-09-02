@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Morgan Wallen",
+    "dob": "1993-05-13",
+    "rating": "7"
+  },
+  {
+    "name": "Beyonce",
+    "dob": "1981-09-4",
+    "rating": "8"
+  },
+  {
+    "name": "Drake",
+    "dob": "1986-10-24",
+    "rating": "6"
+  },
+  {
+    "name": "Luke Combs",
+    "dob": "1990-03-2",
+    "rating": "7"
+  },
+  {
+    "name": "The Weeknd",
+    "dob": "1990-02-16",
+    "rating": "8"
+  },
+  {
+    "name": "Madonna",
+    "dob": "1958-08-16",
+    "rating": "7"
+  },
+  {
+    "name": "Doja Cat",
+    "dob": "1995-10-21",
+    "rating": "6"
+  },
+  {
+    "name": "Lil Baby",
+    "dob": "1994-11-3",
+    "rating": "8"
+  },
+  {
+    "name": "Bad Bunny",
+    "dob": "1994-03-10",
+    "rating": "9"
+  },
+  {
+    "name": "Harry Styles",
+    "dob": "1994-01-1",
+    "rating": "8"
+  }
+]
